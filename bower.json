@@ -1,0 +1,25 @@
+{
+  "name": "typescript-knockout-typewriter-viewmodel-template",
+  "homepage": "https://github.com/clarkis117/typescript-knockout-typewriter-viewmodel-template",
+  "authors": [
+    "Joshua Clark <clarkis117@live.com>"
+  ],
+  "description": "A code generation template for using knockout with typescript via Typewriter",
+  "main": "",
+  "keywords": [
+    "typescript",
+    "knockout",
+    "typewriter",
+    "C#",
+    "code",
+    "generation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
